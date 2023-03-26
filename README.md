@@ -1,5 +1,4 @@
 # CryptoNite
-CryptoNite
 CryptoNite is a web-based portal for crypto enthusiasts that I developed using MySQL, Node.js, Next.js, Express.js, and HTML. In this project, I worked on both the front-end and back-end to provide a seamless user experience.
 
 # Features:-
@@ -31,5 +30,5 @@ This will start the development server on http://localhost:3000.
 Contributing
 If you would like to contribute to this project, please create a pull request and I will review it as soon as possible.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
